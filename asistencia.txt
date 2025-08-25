@@ -4,6 +4,7 @@
 4
 5
 6 Miguel Gomez
+<<<<<<< HEAD
 7
 <<<<<<< HEAD
 8
@@ -16,9 +17,14 @@
 >>>>>>> 7a68f76a51cf4e521a57a476d868df7260636461
 11
 =======
+=======
+7 Oliver
+>>>>>>> 8d3af4defb276e74537af15e5a49b038a5ef33ff
 8 Onel
 9
 10 Adrian
+11
+12 Celeste
 11 
 >>>>>>> 287308c51314935e75d8aefc6893715422c8a8e6
 12
