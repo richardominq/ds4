@@ -1,13 +1,15 @@
 1
-2
+2. Jaseth
 3
 4
 5
-6
+6 Miguel Gomez
 7
 8 Onel
 9
 10 Adrian
+11
+12 Celeste
 11 
 12
 13
@@ -15,5 +17,5 @@
 15
 16
 17
-18
+18 Luis
 19
